@@ -85,7 +85,7 @@ int main()
     {
         for(int i=0;i<=maxno;i)
         {
-            if(new_ary[i]!=i+1);
+            if(new_ary[i]!=i+1)
             cout<<"Found! "<<i+1<<"...is missing."<<endl ;
                 i++;
                 break;
